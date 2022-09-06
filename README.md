@@ -1,4 +1,20 @@
-⚡️CALL⚡️ ME ANYTIME AS YOU WANT. 🍒S-k-y-p-e🍒 (live:.cid.673fcce81c581b31)
+### Hi there 👋
+⚡️CALL⚡️ ME ANYTIME AS YOU WANT.
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center" width="70" height ="70">
+                <a href="#Skype">
+                    <img src="icon_skype.png" width="65" alt="Skype" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+🍒Sk-y-p-e🍒 (live:.cid.673fcce81c581b31)
 Chat with it. devstar0202 on 🎅T-e-l-e-g-r-a-m🎅 or dreamconsolestar@gmail.com on 🐴G-m-a-i-l🐴
 
 😎I can translate your business and user requirements into a great website with engaging and compelling design concepts.
