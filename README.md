@@ -6,9 +6,7 @@
         </tr>
         <tr>
             <td width="120" height="120">
-                <a href="#Skype">
-                    <img src="icon_Skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
-                </a>
+                <img src="icon_Skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
             </td>
             <td>
                 <h3>Skype</h3>
@@ -19,9 +17,7 @@
         </tr>
         <tr>
             <td>
-                <a href="#Telegram">
-                    <img src="icon_telegram.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
-                </a>
+                <img src="icon_telegram.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
             </td>
             <td>
                 <h3>Telegram</h3>
@@ -32,9 +28,7 @@
         </tr>
         <tr>
             <td>
-                <a href="#Gmail">
-                    <img src="icon_gmail.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
-                </a>
+                <img src="icon_gmail.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
             </td>
             <td>
                 <h3>Gmail</h3>
