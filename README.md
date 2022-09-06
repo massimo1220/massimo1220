@@ -7,7 +7,7 @@
         <tr>
             <td>
                 <a href="#Skype">
-                    <img src="icon_skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
+                    <img src="icon_Skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
                 </a>
             </td>
             <td>
