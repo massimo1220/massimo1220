@@ -43,14 +43,14 @@
                 <h3>dreamconsolestar@gmail.com</h3>
             </td>
         </tr>
+        <tr align="center">
+        Hello, Hope you are doing well. I am a full-stack developer and have been working in the web development field for years.
+I have started to work Web development in a significant development team. The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage. I aspire to be a reliable partner for you who can help you grow your business through your website and web application.
+
+Through working together, you will find I am responsive, communicative, transparent, and I work hard for my clients.
+        </tr>
     </tbody>
 </table>
-
-😎I can translate your business and user requirements into a great website with engaging and compelling design concepts.
-❤️I can conceptualize, design, and develop the User Interface/User Experience as well as the overall look and feel of web pages.
-😌With the kind of experience and expertise I have, I can surely make a difference in the development of this project and can bring great ideas and WOW results to the table.
-
-With a help of 👇👇👇
 
 🌱 React | Redux (Saga, Thunk, Hooks)
 🌱 Node.js
