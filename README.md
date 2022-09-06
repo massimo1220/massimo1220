@@ -5,8 +5,8 @@
             <h1 align="center">⚡️CALL⚡️ ME ANYTIME AS YOU WANT.</h1>
         </tr>
         <tr>
-            <td width="120" height="120">
-                <img src="icon_Skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
+            <td width="100px" height="100px">
+                <img src="icon_Skype.png" alt="Skype" style="max-width: 100%; border-collapse: collapse;">
             </td>
             <td>
                 <h3>Skype</h3>
