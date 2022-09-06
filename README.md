@@ -1,6 +1,6 @@
 ### Hi there 👋
 <table align="center">
-    <tbody>
+    <tbody align="center">
         <tr>
             <h2 align="center">⚡️CALL⚡️ ME ANYTIME AS YOU WANT.</h2>
         </tr>
