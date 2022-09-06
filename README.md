@@ -10,7 +10,7 @@
                     <img src="icon_skype.png" width="65" alt="Skype" style="max-width: 100%;">
                 </a>
             </td>
-            <td>
+            <td style="max-width: 100%;">
                 <h3>live:.cid.673fcce81c581b31</h3>
             </td>
         </tr>
