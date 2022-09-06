@@ -54,17 +54,29 @@
             </td>
         </tr>
         <tr>
-            <td>🌱 React | Redux (Saga, Thunk, Hooks)</td>
-            <td>🌱 Node.js</td>
+            <td colspan="3">
+                <h3 >My skills</h3>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <h3>🌱 React | Redux (Saga, Thunk, Hooks)</h3>
+            </td>
+            <td><h3>🌱 Node.js</h3></td>
+        </tr>
+        <tr>
+            <td>
+                <h3>🌱 Express.js</h3>
+            </td>
+            <td><h3>🌱 Node.js</h3></td>
+            <td><h3>🌱 Python | Django</h3></td>
+        </tr>
+        <tr>
+            <td>
+                <h3>🌱 AWS S3 | EC2</h3>
+            </td>
+            <td><h3>🌱 Firebase | Firestore</h3></td>
+            <td><h3>🌱 MongoDB | PostgresDB | MySQL</h3></td>
         </tr>
     </tbody>
 </table>
-
-🌱 React | Redux (Saga, Thunk, Hooks)
-🌱 Node.js
-🌱 Express.js
-🌱 Angular
-🌱 Python | Django
-🌱 AWS S3 | EC2
-🌱 Firebase | Firestore
-🌱 MongoDB | PostgresDB | MySQL
