@@ -6,7 +6,9 @@
         </tr>
         <tr>
             <td width="100px" height="100px">
-                <img src="icon_Skype.png" alt="Skype" style="max-width: 100%; border-collapse: collapse;">
+                <a href="https://join.skype.com/invite/xWi0itGHTTrG">
+                    <img src="icon_Skype.png" alt="Skype" style="max-width: 100%; border-collapse: collapse;">
+                </a>
             </td>
             <td>
                 <h3>Skype</h3>
@@ -17,7 +19,9 @@
         </tr>
         <tr>
             <td>
-                <img src="icon_telegram.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
+                <a href="https://t.me/DevStar0202">
+                    <img src="icon_telegram.png" alt="Telegram" style="width: 100%; border-collapse: collapse;">
+                </a>
             </td>
             <td>
                 <h3>Telegram</h3>
@@ -28,7 +32,9 @@
         </tr>
         <tr>
             <td>
-                <img src="icon_gmail.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
+                <a href="https://mail.google.com/mail/u/0/#inbox">
+                    <img src="icon_gmail.png" alt="Gmail" style="width: 100%; border-collapse: collapse;">
+                </a>
             </td>
             <td>
                 <h3>Gmail</h3>
