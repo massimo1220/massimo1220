@@ -11,6 +11,9 @@
                 </a>
             </td>
             <td>
+                <h3>Skype</h3>
+            </td>
+            <td>
                 <h3>live:.cid.673fcce81c581b31</h3>
             </td>
         </tr>
@@ -21,6 +24,9 @@
                 </a>
             </td>
             <td>
+                <h3>Telegram</h3>
+            </td>
+            <td>
                 <h3>devstar0202</h3>
             </td>
         </tr>
@@ -29,6 +35,9 @@
                 <a href="#Gmail">
                     <img src="icon_gmail.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
                 </a>
+            </td>
+            <td>
+                <h3>Gmail</h3>
             </td>
             <td>
                 <h3>dreamconsolestar@gmail.com</h3>
