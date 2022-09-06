@@ -5,9 +5,9 @@
             <h2 align="center">⚡️CALL⚡️ ME ANYTIME AS YOU WANT.</h2>
         </tr>
         <tr>
-            <td width="65" height ="65">
+            <td width="70" height ="70">
                 <a href="#Skype">
-                    <img src="icon_skype.png" alt="Skype" style="max-width: 100%;">
+                    <img src="icon_skype.png" width="65" alt="Skype" style="max-width: 100%;">
                 </a>
             </td>
             <td>
@@ -15,9 +15,9 @@
             </td>
         </tr>
         <tr>
-            <td width="65" height ="65">
+            <td width="70" height ="70">
                 <a href="#Telegram">
-                    <img src="icon_telegram.png" alt="Telegram" style="max-width: 100%;">
+                    <img src="icon_telegram.png" width="65" alt="Telegram" style="max-width: 100%;">
                 </a>
             </td>
             <td>
@@ -25,9 +25,9 @@
             </td>
         </tr>
         <tr>
-            <td width="65" height ="65">
+            <td width="70" height ="70">
                 <a href="#Gmail">
-                    <img src="icon_gmail.png" alt="Gmail" style="max-width: 100%;">
+                    <img src="icon_gmail.png" width="65" alt="Gmail" style="max-width: 100%;">
                 </a>
             </td>
             <td>
