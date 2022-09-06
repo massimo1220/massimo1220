@@ -5,21 +5,37 @@
             <h2 align="center">⚡️CALL⚡️ ME ANYTIME AS YOU WANT.</h2>
         </tr>
         <tr>
-            <td align="center" width="70" height ="70">
+            <td width="70" height ="70">
                 <a href="#Skype">
-                    <img src="icon_skype.png" width="65" alt="Skype" style="max-width: 100%;">
+                    <img src="icon_skype.png" alt="Skype" style="max-width: 100%;">
                 </a>
             </td>
-            <td style="max-width: 100%;">
+            <td>
                 <h3>live:.cid.673fcce81c581b31</h3>
+            </td>
+        </tr>
+        <tr>
+            <td width="70" height ="70">
+                <a href="#Telegram">
+                    <img src="icon_telegram.png" alt="Telegram" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <h3>devstar0202</h3>
+            </td>
+        </tr>
+        <tr>
+            <td width="70" height ="70">
+                <a href="#Gmail">
+                    <img src="icon_gmial.png" alt="Gmail" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <h3>dreamconsolestar@gmail.com</h3>
             </td>
         </tr>
     </tbody>
 </table>
-
-
-
-devstar0202 on 🎅T-e-l-e-g-r-a-m🎅 or dreamconsolestar@gmail.com on 🐴G-m-a-i-l🐴
 
 😎I can translate your business and user requirements into a great website with engaging and compelling design concepts.
 ❤️I can conceptualize, design, and develop the User Interface/User Experience as well as the overall look and feel of web pages.
