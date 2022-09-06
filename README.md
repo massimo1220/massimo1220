@@ -7,7 +7,7 @@
         <tr>
             <td width="100px" height="100px">
                 <a href="https://join.skype.com/invite/xWi0itGHTTrG">
-                    <img src="icon_Skype.png" alt="Skype" style="max-width: 100%; border-collapse: collapse;">
+                    <img src="icon_Skype.png" alt="Skype" style="width: 100%; border-collapse: collapse;">
                 </a>
             </td>
             <td>
