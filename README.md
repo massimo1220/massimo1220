@@ -27,7 +27,7 @@
         <tr>
             <td width="70" height ="70">
                 <a href="#Gmail">
-                    <img src="icon_gmial.png" alt="Gmail" style="max-width: 100%;">
+                    <img src="icon_gmail.png" alt="Gmail" style="max-width: 100%;">
                 </a>
             </td>
             <td>
