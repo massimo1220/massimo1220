@@ -48,6 +48,11 @@
                 <h3 align="center">Hello, Hope you are doing well. I am a full-stack developer and have been working in the web development field for years. I have started to work Web development in a significant development team. The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage. I aspire to be a reliable partner for you who can help you grow your business through your website and web application. Through working together, you will find I am responsive, communicative, transparent, and I work hard for my clients.</h3>
             </td>
         </tr>
+        <tr>
+            <td colspan="3">
+                <h3 align="center">Proud of delivering 20+ projects, which stood out for discernible achievements: Blockchain crypto banking, SaaS platform that powering intranets for over 47% of UK Government Civil Servants, Farm management app, Influencers platform with marketing campaigns launched (for Panasonic, Fossil Group, SunTrust, etc). Event management tool which was used by IBM, HSBC Bank, TEDx, Airbnb Traders platform co-founded by the Horizon 2020 programme of the EU.</h3>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -59,13 +64,3 @@
 🌱 AWS S3 | EC2
 🌱 Firebase | Firestore
 🌱 MongoDB | PostgresDB | MySQL
-
-😉Proud of delivering 20+ projects, which stood out for discernible achievements:😉
-📍 Blockchain crypto banking with 50,000 active users
-📍 SaaS platform that powering intranets for over 47% of UK Government Civil Servants (90,000 users)
-📍 Farm management app used on 12,000+ farms
-📍 Influencers platform with 1000+ marketing campaigns launched (for Panasonic, Fossil Group, SunTrust, etc)
-📍 Event management tool which was used by IBM, HSBC Bank, TEDx, Airbnb
-📍 Traders platform co-founded by the Horizon 2020 programme of the EU
-
-💪 😌 ❤️ 😎 🤘 🐴 😉 🔥 💃 🎅 🎆 🍒 🎉
