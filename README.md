@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: @Skype(<strong>live:.cid.673fcce81c581b31</strong>) or <a rel="me" href="https://t.me/DevStar0202">@Telegram</a>
+- 📫 &nbsp;How to reach me: <a rel="me" href="https://t.me/DevStar0202">@Telegram</a> or @Skype(<strong>live:.cid.673fcce81c581b31</strong>)
 - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
