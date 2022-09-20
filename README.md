@@ -1,6 +1,18 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;Correct%20Logic%20and%20high%20Creativety;High%20Coding%20level%20and%20Clean%20Code;Always%20learning%20new%20tech&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36"></p>
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prodev-web&theme=algolia&column=7"></p> -->
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devstar0202&theme=vue)
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devstar0202)](https://github.com/devstar0202/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=devstar0202)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devstar0202)](https://git.io/streak-stats)
+
 <table align="center">
     <tbody align="center">
         <tr>
