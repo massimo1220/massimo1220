@@ -5,15 +5,26 @@
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devstar0202&theme=vue) -->
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devstar0202)](https://github.com/devstar0202/github-readme-stats)
+<!-- [![Devstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devstar0202)](https://github.com/devstar0202/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar0202&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devstar0202)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=devstar0202)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devstar0202)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devstar0202)](https://git.io/streak-stats) -->
 
-<table align="center">
+### Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 📫 &nbsp;How to reach me: [@Skype](https://join.skype.com/invite/xWi0itGHTTrG
+) or <a rel="me" href="https://t.me/DevStar0202">@Telegram</a>
+- 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+<!-- <table align="center">
     <tbody align="center">
         <tr>
             <h1 align="center">⚡️CALL⚡️ ME ANYTIME AS YOU WANT.</h1>
@@ -68,7 +79,7 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 ## Development Skill Set
 
