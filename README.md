@@ -19,8 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: [@Skype](https://join.skype.com/invite/xWi0itGHTTrG
-) or <a rel="me" href="https://t.me/DevStar0202">@Telegram</a>
+- 📫 &nbsp;How to reach me: [@Skype](live:.cid.673fcce81c581b31) or <a rel="me" href="https://t.me/DevStar0202">@Telegram</a>
 - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
@@ -35,7 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
 
-[⏩ &nbsp; and many more](https://github.com/devstar0202?tab=repositories&q=&type=source&language=&sort=stargazers) 
+[⏩ &nbsp; my open-sources are:](https://github.com/devstar0202?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
   ____                  ____                      
@@ -51,14 +50,13 @@ I am a Full Stack Developer with 8+ years of experience in developing enterprise
 
 Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
 
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
+I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Fashion Clothes](https://famous.co), [Black & Yellow](https://abbypages.com/home), [Digital Market Place](https://www.afritickets.com/), [App generator](http://appsninjas.com/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
 
-You can learn more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
+You can learn more about me and my open source journey at my website: [dreamconsolestar.wixsite.com](https://dreamconsolestar.wixsite.com/)
 
 Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
 
 ### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons
 </details>
