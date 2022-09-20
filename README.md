@@ -104,7 +104,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="flutter" style="max-width: 100%;">
 </p>
 
-<p align=left>
+<!-- <p align=left>
 <img algin="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=prodev-web&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,DD4814,7432FF" />
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&layout=compact&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
-</p>
+</p> -->
