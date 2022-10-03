@@ -52,7 +52,7 @@ Most of my leisure time is to contribute to open-source projects on GitHub. Ackn
 
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Fashion Clothes](https://famous.co), [Black & Yellow](https://abbypages.com/home), [Digital Market Place](https://www.afritickets.com/), [App generator](http://appsninjas.com/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
 
-You can learn more about me and my open source journey at my website: [devstar0202.github.io](https://devstar0202.github.io)
+You can learn more about me and my open source journey at my website: [http://david0202.c1.biz](http://david0202.c1.biz)
 
 Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
 
