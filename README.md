@@ -187,5 +187,3 @@ Most of the open-source projects I create are the solutions to the problems I fa
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodev-web&layout=compact&show_icons=true&title_color=00ADFE&icon_color=79ff97&text_color=fff&bg_color=30,7432FF,DD4814" />
 </p> -->
 
-
-https://hit.yhype.me/github/profile?user_id=111621165
