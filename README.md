@@ -99,7 +99,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
         </tr>
         <tr>
             <td>
-                <a href="https://t.me/DevStar0202">
+                <a href="https://t.me/strideforward">
                     <img src="icon_telegram.png" alt="Telegram" style="width: 100%; border-collapse: collapse;">
                 </a>
             </td>
