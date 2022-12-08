@@ -19,7 +19,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: <a rel="me" href="https://t.me/strideforward">@Telegram</a> or <a rel="me" href="https://join.skype.com/invite/t8W8Vn7mGcS3">@Skype</a>
+- 📫 &nbsp;How to reach me: <a rel="me" href="https://t.me/strideforward">@Telegram</a> or <a rel="me" href="live:.cid.4d7236f36c739959">@Skype</a>
 - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
@@ -94,7 +94,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
                 <h3>Skype</h3>
             </td>
             <td>
-                <h3>live:.cid.673fcce81c581b31</h3>
+                <h3></h3>
             </td>
         </tr>
         <tr>
