@@ -25,7 +25,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Code&nbsp;Shop&nbsp;F(x)</b></summary>
   <br/>
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
