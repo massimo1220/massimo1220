@@ -24,9 +24,6 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar0202&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
