@@ -19,8 +19,8 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;Currently working on something cool :wink:
 - 🌱 &nbsp;Currently learning Flutter, Go
 - 💬 &nbsp;Ask about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach : <a rel="me" href="https://t.me/Wpdev630">@Telegram</a> or <a rel="me" href="https://web.skype.com/live:.cid.4d7236f36c739959">@Skype</a>
-<!--   - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies) -->
+<!--   - 📫 &nbsp;How to reach : <a rel="me" href="https://t.me/Wpdev630">@Telegram</a> or <a rel="me" href="https://web.skype.com/live:.cid.4d7236f36c739959">@Skype</a>    -->
+- 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 
