@@ -3,8 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;Currently working on something cool :wink:
 - 🌱 &nbsp;Currently learning Flutter, Go
-- 💬 &nbsp;Ask about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-<!--   - 📫 &nbsp;How to reach : <a rel="me" href="https://t.me/">@Telegram</a> or <a rel="me" href="https://web.skype.com/">@Skype</a>    -->
+- 💬 &nbsp;Ask about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask<!--   - 📫 &nbsp;How to reach : <a rel="me" href="https://t.me/">@Telegram</a> or <a rel="me" href="https://web.skype.com/">@Skype</a>    -->
 - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
@@ -32,10 +31,7 @@ I am a Full Stack Developer with 8+ years of experience in developing enterprise
 
 Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
 
-I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Fashion Clothes](https://famous.co), [Black & Yellow](https://abbypages.com/home), [Digital Market Place](https://www.afritickets.com/), [App generator](http://appsninjas.com/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-You can learn more about me and my open source journey at my website: [http://david0202.c1.biz](http://david0202.c1.biz)
-
+I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Fashion Clothes](https://famous.co), [Black & Yellow](https://abbypages.com/home), [Digital Market Place](https://www.afritickets.com/), [App generator](http://appsninjas.com/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.<!-- You can learn more about me and my open source journey at my website: []() -->
 Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
 
 ### Awards and Achievements
