@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;Currently learning Flutter, Go
 - 💬 &nbsp;Ask about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask<!--   - 📫 &nbsp;How to reach : <a rel="me" href="https://t.me/">@Telegram</a> or <a rel="me" href="https://web.skype.com/">@Skype</a>    -->
 - 👨‍💻 &nbsp;Read more about my portolios at [codemotion.ninja](https://codemotion.ninja/case-studies)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
 
 <details>
