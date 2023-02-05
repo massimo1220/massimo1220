@@ -29,14 +29,14 @@ I am a Full Stack Developer with 8+ years of experience in developing enterprise
                  /___/                /___/       
 ```
 
-Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
+Most of my leisure time is to contribute to open-source projects on GitHub. I had contributed to Mozilla, Svelte, Node.JS, and several other open-source projects and organizations.
 
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [HyperChainX](https://hyperchainx.com), [Landshare](https://landshare.io), [Kanon NFT](https://www.kanon.exchange), [Cook Shop](http://halalplates.com/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.<!-- You can learn more about me and my open source journey at my website: []() -->
 Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
 
-### Awards and Achievements
+<!-- ### Awards and Achievements
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
+- Won 1st place in Several Hackathons -->
 </details>
 
 <details>
