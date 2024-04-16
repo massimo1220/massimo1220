@@ -3,7 +3,7 @@ This is the place where I open source stuff and break things :rofl:
 
 - 🔭 &nbsp; Currently working on something cool :wink:
 - 🌱 &nbsp; Currently learning Phoneix, Elixir, Go
-- 💬 &nbsp; Ask about anything related to Javascript/Typescript/Python or React/Express/Django/Flask<!--   - 📫 &nbsp; How to reach: <a rel="me" href="https://t.me/">@Telegram</a> or <a rel="me" href="https://web.skype.com/">@Skype</a>    -->
+- 💬 &nbsp; Ask about anything related to Javascript/Typescript/Python or Angular/React/Next/Vue<!--   - 📫 &nbsp; How to reach: <a rel="me" href="https://t.me/">@Telegram</a> or <a rel="me" href="https://web.skype.com/">@Skype</a>    -->
 - 👨‍💻 &nbsp; Read more about my portfolios
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming
 
